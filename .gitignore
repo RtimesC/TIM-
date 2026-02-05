@@ -1,0 +1,50 @@
+# Keil MDK-ARM 编译输出
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.dep
+*.lnp
+*.htm
+*.build_log.htm
+*.bak
+*.sct
+*.tra
+*.tmp
+*.__i
+*._ia
+*.mpf
+*.mpj
+*.omf
+*.rpt
+
+# Keil 目录
+Objects/
+Listings/
+DebugConfig/
+RTE/
+
+# Keil 用户配置文件（包含个人路径信息）
+*.uvguix.*
+*.uvoptx
+*.uvopt
+*.uvguix
+
+# 系统文件
+*.bak
+*.ddk
+*.edk
+*.plg
+Thumbs.db
+.DS_Store
+
+# JLink 调试文件
+JLinkLog.txt
+JLinkSettings.ini
+
+# 批处理脚本（根据需要调整）
+*.bat
