@@ -35,7 +35,6 @@ RTE/
 *.uvguix
 
 # 系统文件
-*.bak
 *.ddk
 *.edk
 *.plg
